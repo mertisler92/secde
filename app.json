@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Secde",
+    "slug": "secde",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro"
+    },
+    "experiments": {
+      "baseUrl": "/secde"
+    }
+  }
+}
